@@ -1,0 +1,8 @@
+services:
+  website:
+    build:
+      context: . 
+      dockerfile: ./Dockerfile
+    image: site:latest
+    ports:
+      - 80:80
