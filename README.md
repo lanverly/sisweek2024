@@ -23,3 +23,6 @@ Os materiais estão disponíveis via classroom.
 |21h45-22h15|Apresentações das Soluções|
 |22h15-22h30|Encerramento e Premiação|
 
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
