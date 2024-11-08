@@ -1,7 +1,7 @@
 # SISWEEK 2024
 
 > Data: 08/11/2024
-> Local: IFAL Penedo
+> Local: UFAL Penedo
 
 ## Challenge DevOps
 
@@ -9,7 +9,7 @@ Os materiais estão disponíveis via classroom.
 
 ### Google classroom
 
-- Sala no classroom:[LINK](https://classroom.google.com/c/NzI5MTg1MzA3NzYw?cjc=mwuwv2g) <br/>
+- Sala no classroom: [LINK](https://classroom.google.com/c/NzI5MTg1MzA3NzYw?cjc=mwuwv2g) <br/>
 - Código da tuma: mwuwv2g
 
 ### Cronograma
