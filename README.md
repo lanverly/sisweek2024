@@ -16,12 +16,12 @@ Os materiais estão disponíveis via classroom.
 
 |Hora|Atividade|
 |-|-|
-|18h30-18h40|Abertura e Boas-Vindas|
-|18h40-19h10|Introdução ao DevOps e Docker|
-|19h10-19h25|Formação de Equipes e Apresentação dos Desafios|
-|19h25-21h45|Desenvolvimento do Projeto|
-|21h45-22h15|Apresentações das Soluções|
-|22h15-22h30|Encerramento e Premiação|
+|18h30-18h40|~Abertura e Boas-Vindas~|
+|18h40-19h10|~Introdução ao DevOps e Docker~|
+|19h10-19h25|~Formação de Equipes e Apresentação dos Desafios~|
+|19h25-21h45|~Desenvolvimento do Projeto~|
+|21h45-22h15|~Apresentações das Soluções~|
+|22h15-22h30|~Encerramento e Premiação~|
 
 ## Licença
 
