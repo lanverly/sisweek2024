@@ -16,16 +16,17 @@ Os materiais estão disponíveis via classroom.
 
 |Hora|Atividade|
 |-|-|
-|18h30-18h40|Abertura e Boas-Vindas|
-|18h40-19h10|Introdução ao DevOps e Docker|
-|19h10-19h25|Formação de Equipes e Apresentação dos Desafios|
-|19h25-21h45|Desenvolvimento do Projeto|
-|21h45-22h15|Apresentações das Soluções|
-|22h15-22h30|Encerramento e Premiação|
+|18h30-18h40|~Abertura e Boas-Vindas~|
+|18h40-19h10|~Introdução ao DevOps e Docker~|
+|19h10-19h25|~Formação de Equipes e Apresentação dos Desafios~|
+|19h25-21h45|~Desenvolvimento do Projeto~|
+|21h45-22h15|~Apresentações das Soluções~|
+|22h15-22h30|~Encerramento e Premiação~|
 
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+<<<<<<< HEAD
 
 
 
@@ -50,3 +51,5 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 
 172.24.135.230
+=======
+>>>>>>> bc7b0519726104591b86d4c02d43b5d84c27c576
