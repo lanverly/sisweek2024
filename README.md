@@ -26,30 +26,3 @@ Os materiais estão disponíveis via classroom.
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-172.24.135.230
-=======
->>>>>>> bc7b0519726104591b86d4c02d43b5d84c27c576
