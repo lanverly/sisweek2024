@@ -1,0 +1,37 @@
+{
+    "auto_close": true,
+    "auto_open": false,
+    "auto_start": false,
+    "drawing_grid_size": 25,
+    "grid_size": 75,
+    "name": "hackthon-sisweek-2024",
+    "project_id": "76230ae0-ce3d-4c4b-8fe9-10a7aca681f3",
+    "revision": 9,
+    "scene_height": 1000,
+    "scene_width": 2000,
+    "show_grid": false,
+    "show_interface_labels": false,
+    "show_layers": false,
+    "snap_to_grid": false,
+    "supplier": null,
+    "topology": {
+        "computes": [],
+        "drawings": [
+            {
+                "drawing_id": "a46e46dc-e179-4a6f-8d7c-85c8796a5cb8",
+                "locked": true,
+                "rotation": 0,
+                "svg": "cd7223945f83062478738fdd39d1e1c5.png",
+                "x": -612,
+                "y": -420,
+                "z": -1
+            }
+        ],
+        "links": [],
+        "nodes": []
+    },
+    "type": "topology",
+    "variables": null,
+    "version": "2.2.50",
+    "zoom": 119
+}
